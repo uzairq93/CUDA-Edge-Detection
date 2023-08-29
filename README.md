@@ -6,7 +6,7 @@
 #### Course
 - Massively Parallel Programs in CUDA: [CS 468]
 #### Introduction
-This repository contains a set of image processing operations such as Sobel Edge Detection to benchmark the performance difference between CPU and GPU implementations. By executing a simple `Makefile`, you can run various experiments to assess the efficiency of each operation. 
+This repository contains our final report in PDF form and a set of image processing operations such as Sobel Edge Detection to benchmark the performance difference between CPU and GPU implementations. By executing a simple `Makefile`, you can run various experiments to assess the efficiency of each operation. 
 
 #### Pre-requisites
 - C/C++ Compiler
